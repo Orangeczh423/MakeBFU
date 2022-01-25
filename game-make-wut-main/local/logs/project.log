@@ -1,0 +1,1007 @@
+2022-01-25T08:39:15.095Z - normal: Load ~/.CocosCreator/settings.json
+2022-01-25T08:39:15.142Z - normal: Initializing Asset Database
+2022-01-25T08:39:15.142Z - normal: checking language setting...
+2022-01-25T08:39:15.142Z - normal: Language: zh
+2022-01-25T08:39:15.595Z - success: protocol editor-framework registered
+2022-01-25T08:39:15.595Z - success: protocol app registered
+2022-01-25T08:39:15.595Z - success: protocol theme registered
+2022-01-25T08:39:15.595Z - success: protocol packages registered
+2022-01-25T08:39:15.595Z - success: protocol uuid registerred
+2022-01-25T08:39:15.595Z - success: protocol db registerred
+2022-01-25T08:39:15.595Z - success: protocol thumbnail registerred
+2022-01-25T08:39:15.595Z - success: protocol unpack registerred
+2022-01-25T08:39:15.595Z - success: protocol disable-commonjs registerred
+2022-01-25T08:39:15.830Z - normal: connected!
+2022-01-25T08:39:15.830Z - normal: Check project E:\desks\game-make-wut-main\game-make-wut-main
+2022-01-25T08:39:15.830Z - normal: Initializing project E:\desks\game-make-wut-main\game-make-wut-main
+2022-01-25T08:39:15.909Z - success: adapters loaded
+2022-01-25T08:39:15.909Z - success: asset-db-debugger loaded
+2022-01-25T08:39:15.955Z - success: fb-audience-network loaded
+2022-01-25T08:39:15.971Z - success: fb-live-stream loaded
+2022-01-25T08:39:15.971Z - success: google-play-instant loaded
+2022-01-25T08:39:15.971Z - success: jsb-adapter loaded
+2022-01-25T08:39:15.971Z - success: package-manager loaded
+2022-01-25T08:39:15.971Z - success: runtime-adapters loaded
+2022-01-25T08:39:15.971Z - success: runtime-dev-tools loaded
+2022-01-25T08:39:15.971Z - success: ui-kit-preview-extra loaded
+2022-01-25T08:39:15.971Z - success: ui-kit-preview loaded
+2022-01-25T08:39:16.002Z - success: alipay-minigame loaded
+2022-01-25T08:39:16.034Z - success: assets loaded
+2022-01-25T08:39:16.034Z - success: baidugame-opendata loaded
+2022-01-25T08:39:16.034Z - success: baidugame loaded
+2022-01-25T08:39:16.034Z - success: builder loaded
+2022-01-25T08:39:16.034Z - success: bytedance-opendata loaded
+2022-01-25T08:39:16.034Z - success: bytedance loaded
+2022-01-25T08:39:16.034Z - success: channel-upload-tools loaded
+2022-01-25T08:39:16.049Z - success: cloud-function loaded
+2022-01-25T08:39:16.127Z - success: cocos-services loaded
+2022-01-25T08:39:16.127Z - success: console loaded
+2022-01-25T08:39:16.127Z - success: curve-editor loaded
+2022-01-25T08:39:16.143Z - success: fb-instant-games loaded
+2022-01-25T08:39:16.143Z - success: game-window loaded
+2022-01-25T08:39:16.143Z - success: google-instant-games loaded
+2022-01-25T08:39:16.143Z - success: hierarchy loaded
+2022-01-25T08:39:16.143Z - success: huawei-agc loaded
+2022-01-25T08:39:16.143Z - success: huawei-runtime loaded
+2022-01-25T08:39:16.143Z - success: inspector loaded
+2022-01-25T08:39:16.158Z - success: cpk-publish loaded
+2022-01-25T08:39:16.158Z - success: keystore loaded
+2022-01-25T08:39:16.158Z - success: link-sure-runtime loaded
+2022-01-25T08:39:16.174Z - success: node-library loaded
+2022-01-25T08:39:16.174Z - success: open-recent-items loaded
+2022-01-25T08:39:16.174Z - success: oppo-runtime loaded
+2022-01-25T08:39:16.174Z - success: package-asset loaded
+2022-01-25T08:39:16.174Z - success: preferences loaded
+2022-01-25T08:39:16.174Z - success: project-importer loaded
+2022-01-25T08:39:16.174Z - success: project-settings loaded
+2022-01-25T08:39:16.174Z - success: qtt-runtime loaded
+2022-01-25T08:39:16.190Z - success: scene loaded
+2022-01-25T08:39:16.190Z - success: simulator-debugger loaded
+2022-01-25T08:39:16.190Z - success: sprite-editor loaded
+2022-01-25T08:39:16.205Z - success: store loaded
+2022-01-25T08:39:16.205Z - success: timeline loaded
+2022-01-25T08:39:16.205Z - success: vivo-runtime loaded
+2022-01-25T08:39:16.205Z - success: wechatgame-opendata loaded
+2022-01-25T08:39:16.205Z - success: wechatgame loaded
+2022-01-25T08:39:16.205Z - success: xiaomi-runtime loaded
+2022-01-25T08:39:16.252Z - success: im-plugin loaded
+2022-01-25T08:39:16.252Z - success: preview server running at http://localhost:7456
+2022-01-25T08:39:17.046Z - normal: Initializing Cocos2d
+2022-01-25T08:39:17.303Z - normal: Initializing engine extends
+2022-01-25T08:39:18.353Z - normal: Loading packages
+2022-01-25T08:39:18.353Z - normal: Watching packages
+2022-01-25T08:39:19.239Z - normal: Run Application
+2022-01-25T08:39:19.502Z - info: Cocos Service load base data!
+2022-01-25T08:39:22.124Z - warn: The Asset used by component "cc.AudioSource" in scene "game.fire" is missing. Detailed information:
+Node path: "music"
+Asset url: "db://assets/game.fire"
+Missing uuid: "a3d3f1fc-ea21-4326-bc6c-bcb9eccfd632"
+
+2022-01-25T08:39:24.982Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2022-01-25T08:39:24.982Z - normal: Simulator: WORKAREA WIDTH 1528.00, HEIGHT 765.00
+2022-01-25T08:39:24.982Z - normal: Simulator: FRAME SCALE = 0.50
+2022-01-25T08:39:25.250Z - normal: Simulator: Ready for GLSL
+2022-01-25T08:39:25.250Z - normal: Simulator: Ready for OpenGL 2.0
+2022-01-25T08:39:25.250Z - normal: Simulator: Project Config:
+2022-01-25T08:39:25.251Z - normal: Simulator:     project dir: C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\cocos2d-x\simulator\win32\
+2022-01-25T08:39:25.251Z - normal: Simulator:     writable path: $(PROJDIR)\
+2022-01-25T08:39:25.251Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2022-01-25T08:39:25.251Z - normal: Simulator:     frame size: 750 x 1334
+2022-01-25T08:39:25.251Z - normal: Simulator:     frame scale: 0.50
+2022-01-25T08:39:25.251Z - normal: Simulator:     show console: NO
+2022-01-25T08:39:25.251Z - normal: Simulator:     write debug log: NO ()
+2022-01-25T08:39:25.251Z - normal: Simulator:     listen: 
+2022-01-25T08:39:25.251Z - normal: Simulator:     debugger: none
+2022-01-25T08:39:25.251Z - normal: Simulator:     add searching path:
+2022-01-25T08:39:25.251Z - normal: Simulator: 
+2022-01-25T08:39:25.251Z - normal: Simulator: 
+2022-01-25T08:39:25.251Z - normal: Simulator: 
+2022-01-25T08:39:25.251Z - normal: Simulator: resetDesignResolution request
+2022-01-25T08:39:25.251Z - normal: Simulator: ------------------------------------------------
+2022-01-25T08:39:25.252Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2022-01-25T08:39:25.252Z - normal: Simulator: ------------------------------------------------
+2022-01-25T08:39:25.252Z - normal: Simulator: D/jswrapper (416): Initializing V8, version: 8.0.426.16
+2022-01-25T08:39:25.252Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2022-01-25T08:39:25.252Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ devtools://devtools/bundled/js_app.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2022-01-25T08:39:25.252Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2022-01-25T08:39:25.272Z - normal: Simulator: D/jswrapper (134): JS: Enable batch GL commands optimization!
+2022-01-25T08:39:25.273Z - normal: Simulator: resetDesignResolution request
+2022-01-25T08:39:25.273Z - normal: Simulator: ------------------------------------------------
+2022-01-25T08:39:25.274Z - normal: Simulator: LOAD Js FILE: main.js
+2022-01-25T08:39:25.274Z - normal: Simulator: ------------------------------------------------
+2022-01-25T08:39:25.787Z - normal: Simulator: D/jswrapper (134): JS: Read json failed: path: C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\cocos2d-x\simulator\win32/gamecaches/cacheList.json message: Unexpected end of JSON input
+2022-01-25T08:39:25.799Z - normal: Simulator: iShow!
+2022-01-25T08:39:25.824Z - normal: Simulator: D/jswrapper (134): JS: load __quick_compile_project__: 5.217999999999961ms
+2022-01-25T08:39:25.950Z - normal: Simulator: D/renderer (616): Device caps: maxVextexTextures: 32, maxFragUniforms: 4096, maxTextureUints: 32, maxVertexAttributes: 29, maxDrawBuffers: 8, maxColorAttatchments: 8
+2022-01-25T08:39:25.950Z - normal: Simulator: D/jswrapper (134): JS: Cocos Creator v2.4.3
+2022-01-25T08:39:26.055Z - normal: Simulator: D/jswrapper (134): JS: 开发者:原项目开发(暂未找到),JinYu
+2022-01-25T08:39:26.055Z - normal: Simulator: D/jswrapper (134): JS: 本项目仓库地址：https://github.com/Kingfish404/Make-WUT
+2022-01-25T08:39:26.055Z - normal: Simulator: D/jswrapper (134): JS: 喜欢的话，求Star
+2022-01-25T08:39:26.055Z - normal: Simulator: D/jswrapper (134): JS: 感谢WUT团委小伙伴的支持
+2022-01-25T08:39:26.055Z - normal: Simulator: D/jswrapper (134): JS: date:2020-02-02
+2022-01-25T08:39:26.118Z - warn: Simulator: libpng warning: iCCP: known incorrect sRGB profile
+E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.119Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.119Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.119Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.119Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.119Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.119Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.119Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.119Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.119Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.119Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.119Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.119Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.135Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.135Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.135Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.135Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.135Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.135Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.135Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.135Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.135Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.135Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.135Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.136Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.136Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.152Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.153Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.153Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.153Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.153Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.153Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.153Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.153Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.153Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.153Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.153Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.153Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.153Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.179Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.179Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.179Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.179Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.179Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.180Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.180Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.180Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.180Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.180Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.180Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.180Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.198Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.198Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.198Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.198Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.198Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.198Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.198Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.198Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.198Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.199Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.199Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.199Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.199Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.211Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.212Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.212Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.212Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.212Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.212Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.212Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.212Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.212Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.212Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.212Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.212Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.212Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.228Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.229Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.229Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.229Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.229Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.229Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.229Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.229Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.229Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.229Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.229Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.230Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.230Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.247Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.248Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.248Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.248Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.248Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.248Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.248Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.248Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.248Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.249Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.249Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.249Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.249Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.261Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.262Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.262Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.262Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.262Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.262Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.262Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.262Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.262Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.262Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.262Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.262Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.262Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.278Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.279Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.279Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.279Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.279Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.279Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.279Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.279Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.279Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.279Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.279Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.279Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.279Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.296Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.296Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.296Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.296Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.296Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.296Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.296Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.297Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.297Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.297Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.297Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.297Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.297Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.312Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.312Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.312Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.313Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.313Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.313Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.313Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.313Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.313Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.314Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.315Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.315Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.315Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.330Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.330Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.330Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.330Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.330Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.330Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.330Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.330Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.330Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.330Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.330Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.331Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.331Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.345Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.345Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.346Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.346Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.346Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.346Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.346Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.346Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.346Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.346Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.346Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.346Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.346Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.361Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.362Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.362Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.362Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.362Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.362Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.362Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.362Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.362Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.362Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.362Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.362Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.362Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.379Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.379Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.379Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.379Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.379Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.379Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.379Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.379Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.379Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.379Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.379Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.379Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.379Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.395Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.395Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.395Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.396Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.396Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.396Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.396Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.396Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.396Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.396Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.396Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.396Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.396Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.413Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.413Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.413Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.413Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.413Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.413Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.413Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.413Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.413Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.413Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.413Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.414Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.414Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.429Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.430Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.430Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.430Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.430Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.430Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.430Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.430Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.430Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.430Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.430Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.430Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.430Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.446Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.447Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.447Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.447Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.447Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.447Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.447Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.447Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.447Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.447Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.447Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.447Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.447Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.465Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.465Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.465Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.465Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.465Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.465Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.465Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.465Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.465Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.465Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.465Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.465Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.465Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.480Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.480Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.480Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.480Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.480Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.480Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.480Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.480Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.480Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.480Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.480Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.481Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.481Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.496Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.497Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.497Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.497Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.497Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.497Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.497Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.497Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.497Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.497Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.497Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.497Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.497Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.633Z - error: Simulator: E/jswrapper (281): ERROR: Uncaught TypeError: Cannot read property '_ensureLoaded' of null, location: src/cocos2d-jsb.js:0:0
+STACK:
+[0]onLoad@src/cocos2d-jsb.js:28159
+[1]eval@(no filename):3
+[2]anonymous@src/cocos2d-jsb.js:27667
+[3]invoke@src/cocos2d-jsb.js:27617
+[4]activateNode@src/cocos2d-jsb.js:39232
+[5]_activate@src/cocos2d-jsb.js:19987
+[6]runSceneImmediate@src/cocos2d-jsb.js:17626
+[7]anonymous@main.js:28
+[8]anonymous@src/cocos2d-jsb.js:46844
+[9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+[10]tick@jsb-adapter/jsb-builtin.js:2148
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.633Z - normal: Simulator: D/jswrapper (153): JS: [ERROR]: (see stack) Uncaught TypeError: Cannot read property '_ensureLoaded' of null [0]onLoad@src/cocos2d-jsb.js:28159
+2022-01-25T08:39:26.633Z - normal: Simulator: [1]eval@(no filename):3
+2022-01-25T08:39:26.633Z - normal: Simulator: [2]anonymous@src/cocos2d-jsb.js:27667
+2022-01-25T08:39:26.633Z - normal: Simulator: [3]invoke@src/cocos2d-jsb.js:27617
+2022-01-25T08:39:26.633Z - normal: Simulator: [4]activateNode@src/cocos2d-jsb.js:39232
+2022-01-25T08:39:26.633Z - normal: Simulator: [5]_activate@src/cocos2d-jsb.js:19987
+2022-01-25T08:39:26.633Z - normal: Simulator: [6]runSceneImmediate@src/cocos2d-jsb.js:17626
+2022-01-25T08:39:26.633Z - normal: Simulator: [7]anonymous@main.js:28
+2022-01-25T08:39:26.633Z - normal: Simulator: [8]anonymous@src/cocos2d-jsb.js:46844
+2022-01-25T08:39:26.634Z - normal: Simulator: [9]fireTimeout@jsb-adapter/jsb-builtin.js:2191
+2022-01-25T08:39:26.634Z - normal: Simulator: [10]tick@jsb-adapter/jsb-builtin.js:2148
+2022-01-25T08:39:26.634Z - error: Simulator: E/jswrapper (574): [ERROR] (f:\jenkins\workspace\creator_2d\cocos2d-x-lite\windows\cocos2d-x-lite\cocos\scripting\js-bindings\jswrapper\v8\object.cpp, 574): Invoking function (0C1634B0) failed!
+    at HTMLElement.print-simulator-log (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1606)
+    at Object.e._dispatch (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1876)
+    at EventEmitter.<anonymous> (C:\Users\OrangeCheng\AppData\Local\Temp\CocosDashboard\CocosCreator_v2.4.3_20200927_win\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2952)
+    at EventEmitter.emit (events.js:194:13)
+    at EventEmitter.emit (domain.js:469:20)
+    at EventEmitter.topLevelDomainCallback (domain.js:124:23)
+2022-01-25T08:39:26.634Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup begin ...
+2022-01-25T08:39:26.634Z - normal: Simulator: D/jswrapper (650): GC begin ..., (js->native map) size: 177, all objects: 431
+2022-01-25T08:39:26.641Z - normal: Simulator: D/jswrapper (668): GC end ..., (js->native map) size: 149, all objects: 403
+2022-01-25T08:39:26.641Z - normal: Simulator: D/jswrapper (650): GC begin ..., (js->native map) size: 149, all objects: 403
+2022-01-25T08:39:26.643Z - normal: Simulator: D/jswrapper (668): GC end ..., (js->native map) size: 149, all objects: 403
+2022-01-25T08:39:26.648Z - normal: Simulator: D/jswrapper (650): GC begin ..., (js->native map) size: 0, all objects: -1
+2022-01-25T08:39:26.648Z - normal: Simulator: D/jswrapper (532): Function object is released!
+2022-01-25T08:39:26.648Z - normal: Simulator: D/jswrapper (668): GC end ..., (js->native map) size: 0, all objects: -1
+2022-01-25T08:39:26.651Z - normal: Simulator: D/jswrapper (571): ScriptEngine::cleanup end ...

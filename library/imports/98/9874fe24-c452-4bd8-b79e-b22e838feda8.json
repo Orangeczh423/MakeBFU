@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BFU_hjy",
+    "texture": "1b371755-49ee-4f63-b79f-ba6e46c55b92",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      135,
+      135
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      135,
+      135
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
